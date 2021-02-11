@@ -8,5 +8,3 @@ I wish everyone who reads this a wonderful time :)
 I also wish all the beings who can't read this a great time ^^
 
 *waves into outer space*
-
-Oh no! I had forgotten about the commit messages....
